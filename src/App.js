@@ -1,14 +1,14 @@
 import './App.css';
 import Header from "./components/Header";
 import Navbar from './components/Navbar';
-import VexPic from './components/VexPic';
+import AboutMe from './components/AboutMe';
 
 function App() {
   return (
     <div>
       <Navbar />
       <Header />
-      <VexPic />
+      <AboutMe />
     </div>
   );
 }
