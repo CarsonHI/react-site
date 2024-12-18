@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <header className="bg-yellow-300 text-white p-4 shadow-md">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
-        <h1 className="text-md font-semibold text-blue-400">Carson Healy</h1>
+        <h1 className="text-md font-semibold text-white-400">Carson Healy</h1>
         <nav>
           <ul className="flex space-x-6">
             <li>
